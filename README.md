@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Aplicação
 
-Você pode visualizar a aplicação do projeto através [DESSE LINK]()
+Você pode visualizar a aplicação do projeto através [DESSE LINK](https://fiap-enterprise-challange-social-life-ring.vercel.app/)
 
 ## :memo: Licença
 
